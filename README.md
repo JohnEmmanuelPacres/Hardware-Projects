@@ -7,3 +7,5 @@
 - There might be nothing special in this repository, you are free to ignore this nonsense.
 
 ## Table of Contents
+
+- [iPad 1 LCD Hack](./ipad1_lcd_hack/PLAN.md)
