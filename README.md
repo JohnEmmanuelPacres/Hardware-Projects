@@ -9,3 +9,4 @@
 
 - [iPad 1 LCD Hack](./ipad1_lcd_hack/PLAN.md)
 - [Nano Fish Tank Inspector](./fish_inspect_nano/PLAN.md)
+- [Home Lab]()
