@@ -10,3 +10,4 @@
 - [iPad 1 LCD Hack](./ipad1_lcd_hack/PLAN.md)
 - [Nano Fish Tank Inspector](./fish_inspect_nano/PLAN.md)
 - [Home Lab - Part 1](./homelab_1/PLAN.md)
+- [Assembly x86](./tasm_assembly/CHEATSHEET.md)
