@@ -11,3 +11,4 @@
 - [Nano Fish Tank Inspector](./fish_inspect_nano/PLAN.md)
 - [Home Lab - Part 1](./homelab_1/PLAN.md)
 - [Assembly x86](./tasm_assembly/CHEATSHEET.md)
+- [Flashdrive reset](./flash-drive-reset/FlashDrive_Reset_Guide.md)
